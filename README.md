@@ -2,6 +2,13 @@
 
 Alfred Workflow to encode and decode a string into multiple variations.
 
+Supports:
+- URL Encoding/Decoding
+- HTML Encoding/Decoding
+- Base64 Encoding/Decoding
+- HEX Encoding/Decoding
+- Unicode Encoding/Decoding
+
 ## Requirements
 
 - [Alfred App](http://www.alfredapp.com/#download)
@@ -21,15 +28,15 @@ Alfred Workflow to encode and decode a string into multiple variations.
 
 ## Preview
 
-![Encode](./img/workflow.png)
+![Encode](./img/workflow.jpg)
 
 - Encode
 
-![Encode](./img/encode.png)
+![Encode](./img/encode.jpg)
 
 - Decode
 
-![Decode](./img/decode.png)
+![Decode](./img/decode.jpg)
 
 ## Thanks
  
