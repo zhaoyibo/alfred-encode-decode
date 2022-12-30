@@ -17,7 +17,7 @@ Supports:
 
 ## Installing
 
-1. Download [encode-and-decode.alfredworkflow](https://github.com/zhaoyibo/alfred-encode-decode/releases)
+1. Download [encode-and-decode.alfredworkflow](https://github.com/zhaoyibo/alfred-encode-decode/releases/latest/download/encode-and-decode.alfredworkflow)
 2. Double-click to import into Alfred
 3. Review the workflow to add custom Hotkeys
 
